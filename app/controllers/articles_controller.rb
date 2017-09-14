@@ -1,5 +1,5 @@
 # adding comments to test git push from vs code editor
-
+# bo bo bo bo bo 
 class ArticlesController < ApplicationController
 
   http_basic_authenticate_with name: "dhh", password: "secret", except: [:index, :show]
